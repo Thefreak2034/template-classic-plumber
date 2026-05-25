@@ -1,5 +1,5 @@
 /* ============================================================
-   Buzz Electrical — Mid-Tier Electrician Template
+   Elite Plumbing — Mid-Tier Plumber Template
    Main JavaScript (Vanilla, IIFE)
    ============================================================ */
 (function () {
